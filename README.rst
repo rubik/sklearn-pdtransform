@@ -5,6 +5,7 @@ A little module with a few transformers to work with Pandas dataframes in the
 Sklearn pipeline. Example usage:
 
 .. code:: python
+
     pipeline = Pipeline([
         ('ordinal_to_nums', DFTransform(_ordinal_to_nums, copy=True)),
         ('union', DFFeatureUnion([
