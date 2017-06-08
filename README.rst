@@ -1,6 +1,11 @@
 sklearn-pdtransform
 -------------------
 
+Installation:
+
+.. code::
+    $ pip install pdtransform
+
 A little package with a few transformers to work with Pandas dataframes in the
 Sklearn pipeline, which I found myself writing quite frequently. Example usage:
 
