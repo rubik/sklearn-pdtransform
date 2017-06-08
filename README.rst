@@ -4,6 +4,7 @@ sklearn-pdtransform
 Installation:
 
 .. code::
+
     $ pip install pdtransform
 
 A little package with a few transformers to work with Pandas dataframes in the
