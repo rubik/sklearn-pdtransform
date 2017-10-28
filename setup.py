@@ -6,7 +6,7 @@ with open(os.path.join(os.path.dirname(__file__), 'README.rst')) as fobj:
     readme = fobj.read()
 
 setup(name='pdtransform',
-      version='0.1',
+      version='0.2',
       author='Michele Lacchia',
       author_email='michelelacchia@gmail.com',
       url='http://signal-to-noise.xyz/why-you-should-use-scikit-learns-pipeline-object.html',
