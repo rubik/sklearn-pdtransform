@@ -34,4 +34,4 @@ Sklearn pipeline, which I found myself writing quite frequently. Example usage:
    ])
 
 
-For more information read `this blog post <http://signal-to-noise.xyz/why-you-should-use-scikit-learns-pipeline-object.html>`_.
+For more information read `this blog post <https://signal-to-noise.xyz/post/sklearn-pipeline/>`_.
